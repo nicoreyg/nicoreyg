@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolás Rey
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Data Science and additional tools for empirical analysis.
+- 💞️ I’m looking to collaborate on anything that sounds interesting. Would love to be part of a start-up.
+- 📫 You can reach me at nicoreyg@gmail.com
