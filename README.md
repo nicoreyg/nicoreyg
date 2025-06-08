@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolás Rey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science and additional tools for empirical analysis.
-- 💞️ I’m looking to collaborate on anything that sounds interesting. Would love to be part of a start-up.
+- 👀 I’m interested in Industrial Organization, Econometrics, Data Science, Time-series models, Stochastic Calculus, Computer Science.
+- 🌱 I’m currently playing and learning about anything I can.
+- 💞️ I’m looking to collaborate on anything that sounds interesting.
 - 📫 You can reach me at nicoreyg@gmail.com
